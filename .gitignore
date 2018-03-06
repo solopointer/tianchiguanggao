@@ -1,0 +1,9 @@
+round1_ijcai_18_result_demo_20180301.txt
+round1_ijcai_18_test_a_20180301.txt
+train.txt
+test.txt
+*.pyc
+log/
+models/
+*.pki
+
